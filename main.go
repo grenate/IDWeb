@@ -1,1 +1,1 @@
-"package main\nimport \"fmt\"\nfunc main() { fmt.Println(\"Hello World\") }" 
+"package main import \"fmt\" func main() { fmt.Println(\"Hello, world!\") }" 
