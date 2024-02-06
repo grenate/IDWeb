@@ -1,1 +1,1 @@
-"#include <iostream>\nint main() { std::cout << \"Hello World\" << std::endl; return 0; }" 
+"#include <iostream> using namespace std; int main() { cout << \"Hello, world!\" << endl; return 0; }" 
